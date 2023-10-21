@@ -1,8 +1,6 @@
 {
   "ver":1.0,
   "se":{
-    "0":{"url":"https://raw.githubusercontent.com/FrozenFeather/tenhou-se-and-bg/master/act_babei_73.mp3"},
-    "1":{"url":"https://raw.githubusercontent.com/FrozenFeather/tenhou-se-and-bg/master/act_babei_73.mp3"},
     "3":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/countdown5.mp3"},
     "9":{"url":"https://raw.githubusercontent.com/FrozenFeather/tenhou-se-and-bg/master/act_babei_73.mp3"},
     "11":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/hule_fan_out.mp3"},
@@ -18,7 +16,7 @@
     "34":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/laien/act_ron.mp3"},
     "35":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/mingzhiyingshu/act_tumo.mp3"},
     "36":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/laien/act_tumo.mp3"},
-    "1028":{"url":"https://raw.githubusercontent.com/FrozenFeather/tenhou-se-and-bg/master/act_babei_73.mp3"},
-    "1029":{"url":"https://raw.githubusercontent.com/FrozenFeather/tenhou-se-and-bg/master/act_babei_73.mp3"}
+    "1028":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/winlose.mp3"},
+    "1029":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yakuman.mp3"}
   }
 }
